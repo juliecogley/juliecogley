@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliecogley
+- 👋 Hi, I’m @juliecogley!
 - 👀 I’m interested in Pokemon
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ways to learn coding
